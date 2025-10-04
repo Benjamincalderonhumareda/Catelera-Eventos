@@ -1,0 +1,183 @@
+
+[
+  {
+    "id": "evt-0002",
+    "title": "Concierto Folklore de Verano",
+    "category": "musica",
+    "artists": ["Orquesta Filarmónica Nacional"],
+    "city": "Miraflores",
+    "venue": "Teatro Mayor",
+    "datetime": "2025-11-23T20:00:00-05:00",
+    "priceFrom": 85.00,
+    "currency": "PEN",
+    "stock": 850,
+    "soldOut": false,
+    "popularity": 87,
+    "images": ["folklore.jpg"],
+    "policies": {
+      "age": "Todas las edades",
+      "refund": "Reembolso hasta 48h antes"
+    },
+    "description": "Un repertorio de música del folklore peruano con grandes artistas del ande Peruano que nos deleitaran con un gran evento. Un buen evento para conocer un poco de la cultura peruana."
+  },
+  {
+    "id": "evt-0003",
+    "title": "Festival Expocafe 2025",
+    "category": "festival",
+    "artists": ["Ricahrd cafes", "DJ Latina", "Banda Cafetero"],
+    "city": "Lima",
+    "venue": "Starbucks",
+    "datetime": "2025-11-30T18:00:00-05:00",
+    "priceFrom": 80.00,
+    "currency": "PEN",
+    "stock": 30000,
+    "soldOut": false,
+    "popularity": 95,
+    "images": ["cafe.png"],
+    "policies": {
+      "age": "18+",
+      "refund": "No reembolsable"
+    },
+    "description": "El evento más esperado del año para los amantes del café peruano regresa renovado y con más fuerza que nunca! Con más de 10 exitosas ediciones, Expocafé Perú se ha consolidado como el principal punto de encuentro del mundo del café en el país."
+  },
+  {
+    "id": "evt-0004",
+    "title": "Stand-Up Comedy Night",
+    "category": "standup",
+    "artists": ["Comediante Ricardo", "Comediante Jorge Luna"],
+    "city": "Buenos Aires",
+    "venue": "Teatro Vorterix",
+    "datetime": "2025-10-18T21:00:00-03:00",
+    "priceFrom": 45.00,
+    "currency": "ARS",
+    "stock": 400,
+    "soldOut": false,
+    "popularity": 78,
+    "images": ["comedy.jpg"],
+    "policies": {
+      "age": "16+",
+      "refund": "No reembolsable"
+    },
+    "description": "Una noche de comedia con risas garantizadas con estod dos grandes artitas del humor llegando de su gira por todo Europa llegan a Argentina. ."
+  },
+  {
+    "id": "evt-0005",
+    "title": "Obra de Teatro:EL Boof",
+    "category": "teatro",
+    "artists": ["Compañía Nacional de Teatro"],
+    "city": "Ciudad de México",
+    "venue": "Teatro de la Ciudad",
+    "datetime": "2025-09-15T20:00:00-06:00",
+    "priceFrom": 60.00,
+    "currency": "MXN",
+    "stock": 600,
+    "soldOut": false,
+    "popularity": 82,
+    "images": ["teatro.png"],
+    "policies": {
+      "age": "12+",
+      "refund": "Reembolso hasta 72h antes"
+    },
+    "description": "Rocco es un perro adulto, que vive feliz y tranquilo dentro de una familia que lo quiere mucho... hasta que llega Poncho. Poncho es un cachorro que vendrá a alborotar la vida y la paz de Rocco. Pero también llegará para convertirse en su amigo, en su mejor amigo. Y así pasarán los años, y estos dos perros se darán cuenta de que una verdadera amistad canina es más grande que el tiempo y los problemas."
+  },
+  {
+    "id": "evt-0006",
+    "title": "Evento de La Liga 1 edicion 2025",
+    "category": "Deportes",
+    "artists": ["Sporting Cristal", "Universitario"],
+    "city": "Lima",
+    "venue": "Estadio Nacional",
+    "datetime": "2025-15-15T14:00:00-05:00",
+    "priceFrom": 150.00,
+    "currency": "PEN",
+    "stock": 500000,
+    "soldOut": false,
+    "popularity": 98,
+    "images": ["futbol.png"],
+    "policies": {
+      "age": "Todas las edades",
+      "refund": "No hay reembolso"
+    },
+    "description": "El equipo celeste del rimac se enfrenta a los cremas de la universidad en un partido que promete ser electrizante. No te pierdas este clásico del fútbol peruano en el majestuoso Estadio Nacional."
+  },
+  {
+    "id": "evt-0007",
+    "title": "Fiesta de Halloween 2025",
+    "category": "Fiesta",
+    "artists": ["Dj Perreo"],
+    "city": "Surco",
+    "venue": "Casa del terror",
+    "datetime": "2025-10-31T19:00:00-04:00",
+    "priceFrom": 70.00,
+    "currency": "PEN",
+    "stock": 1200,
+    "soldOut": false,
+    "popularity": 90,
+    "images": ["hallowen.png"],
+    "policies": {
+      "age": "18+",
+      "refund": "Reembolso hasta 7 días antes"
+    },
+    "description": "Unas de las fiestas mas terrorificas y asombroso por el dia de Hallowen que promete ser la fiesta numero 1 de Surco."
+  },
+  {
+    "id": "evt-0008",
+    "title": "Conferencia de Tecnología Futuro 2025",
+    "category": "Conferencia",
+    "artists": ["Ponente Internacional", "Startups locales"],
+    "city": "Lima Cercado",
+    "venue": "Centro de Convenciones",
+    "datetime": "2025-10-31T09:00:00-05:00",
+    "priceFrom": 100.00,
+    "currency": "PEN",
+    "stock": 2500,
+    "soldOut": false,
+    "popularity": 85,
+    "images": ["tecnologia.png"],
+    "policies": {
+      "age": "Todas las edades",
+      "refund": "Reembolso parcial hasta 5 días antes"
+    },
+    "description": "Una cumbre sobre innovación tecnológica y futuro digital."
+  },
+  {
+    "id": "evt-0009",
+    "title": "Festival de Terror",
+    "category": "Festival",
+    "artists": ["Dj Terror", "Banda Purge"],
+    "city": "La Molina",
+    "venue": "Plaza Principal",
+    "datetime": "2025-10-31T20:00:00-05:00",
+    "priceFrom": 75.00,
+    "currency": "PEN",
+    "stock": 2000,
+    "soldOut": false,
+    "popularity": 70,
+    "images": ["purge.png"],
+    "policies": {
+      "age": "Mayores de 18 años",
+      "refund": "No reembolsable"
+    },
+    "description": "Un festival de Terror que promete una experiencia terrorifica pero increible por el dia de Hallowen. No faltes o sino te perderas el festival del año con respecto al terror y miedo. Tendremos tematicas como experiencia zombies, Casita del terror, Fiesta del terror, Ganador al que mejor disfraz y mucho mas."
+  },
+  {
+    "id": "evt-0010",
+    "title": "Cine al Aire Libre: Ciclo de Cine Peruano",
+    "category": "otros",
+    "artists": ["CineClub Urbano"],
+    "city": "San Isidro",
+    "venue": "Parque de los Deseos",
+    "datetime": "2025-09-22T19:00:00-05:00",
+    "priceFrom": 0.00,
+    "currency": "PEN",
+    "stock": 1500,
+    "soldOut": false,
+    "popularity": 65,
+    "images": ["cine.png"],
+    "policies": {
+      "age": "Todas las edades",
+      "refund": "Evento gratuito"
+    },
+    "description": "Proyección gratuita de películas clásicas Peruanas bajo las estrellas. Donde encontraras frandes actores del cine Peruano, viviras una experiencia unica y emocinante que no te puedes perder. Tambien habra canchitas , gaseosass y dulces para la venta y una mejor experiencia.Puedes venir con tu familia y amigos."
+  }
+]
